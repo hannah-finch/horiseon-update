@@ -14,10 +14,6 @@ These improvements include:
 
 These changes will greatly improve the application's accessibility (especially for screen-readers), and improve the application's ranking in search engines. The code is more efficient and easier to read. Changes to the CSS selectors will simplify updating or adding new content as the website grows with the company.
 
-## Installation
-
-N/A
-
 ## Usage
 
 The following image shows the application's appearance, unchanged from the original source code:
@@ -28,4 +24,4 @@ For comparison, the original source code can be found in the initial commit of t
 
 ## Credits
 
-N/A
+The design and starter code were created by the instructional staff in my bootcamp. The original code can be found in the initial commit of the repo's commit history.
